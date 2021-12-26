@@ -5,7 +5,7 @@ A lightweight plugin that replicates the tracking compass in Dream's videos.
 - You have to right click the compass for the location to update.
 
 ### Installation
-1. Use the releases page or Spigot page to download the .JAR file
+1. Use the releases page or [Spigot page](https://www.spigotmc.org/resources/compass-tracker.98687/) to download the .JAR file
    - <!> Your browser may warn that the download is unsafe. This is completely normal and just an extra layer of protection. Stay safe!
 2. Place the .JAR file in the /plugins/ folder in your server folder.
    - Make sure you are using a [Spigot](https://getbukkit.org/download/spigot) server, or a fork of it, like [Paper](https://papermc.io/).
