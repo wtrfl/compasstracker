@@ -1,0 +1,13 @@
+name: CompassTracker
+author: themonomew
+description: A lightweight plugin that replicates the compass tracking from Dream's videos.
+version: 1.0
+api-version: 1.14
+main: com.themonomew.compasstracker.CompassTracker
+commands:
+  track:
+    description: Sets the player that compasses should track.
+    usage: /<command>
+  reloadtracker:
+    description: Reloads the plugin's config file.
+    usage: /<command>
